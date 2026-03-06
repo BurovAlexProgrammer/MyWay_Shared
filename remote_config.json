@@ -1,4 +1,4 @@
 {
-  "ApiServerAddress" : "localhost:5501",
+  "ApiServerAddress" : "http://localhost:5501",
   "TelegramRegistrationAddress" : "https://t.me/myway39bot"
 }
